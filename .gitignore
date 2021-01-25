@@ -1,0 +1,5 @@
+!.gitignore
+doctest_.py
+main.py
+.idea/
+env/
